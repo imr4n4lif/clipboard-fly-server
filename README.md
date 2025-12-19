@@ -1,6 +1,6 @@
 # Clipboard Fly Server
 
-WebSocket relay server for [Clipboard Fly](https://github.com/yourusername/clipboard-fly-frontend) — secure clipboard sharing with zero-knowledge encryption.
+WebSocket relay server for [Clipboard Fly](https://github.com/imr4n4lif/clipboard-fly-frontend) — secure clipboard sharing with zero-knowledge encryption.
 
 ![Screenshot](assets/homepage.png)
 
